@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **ArunKumarS-1211/ArunKumarS-1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +31,7 @@ I'm Arun, a designer and developer from India. Languages, data structures and al
 ## Connect with me  💬
 
 
-<a href="https://github.com/ArunKumar-12" target="_blank">
+<a href="https://github.com/ArunKumarS-1211" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/arun-kumar-554993229" target="_blank">
@@ -45,7 +45,7 @@ I'm Arun, a designer and developer from India. Languages, data structures and al
 
 
 
-<img src="https://komarev.com/ghpvc/?username=ArunKumar-12&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=ArunKumarS-1211&&style=flat-square" align="center" />
 
   
 
